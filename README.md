@@ -16,6 +16,7 @@ A simple command-line based Contact Management System built with Python. This to
 •	Console-based user interaction.
 
 🛠️ Requirements
+
 •	Python 3.x (no external libraries required)
 
 💻 How to Run
