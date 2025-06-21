@@ -43,7 +43,7 @@ Enter phone number: 9876543210
 Enter email (optional): sowmya@example.com
 
 📦 File Structure
-  
+
    Contacts/
   contacts.py    # Main script file
    README.md      # Project documentation
