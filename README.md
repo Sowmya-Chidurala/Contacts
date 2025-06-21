@@ -11,12 +11,14 @@ A simple command-line based Contact Management System built with Python. This to
 •	Console-based user interaction.
 🛠️ Requirements
 •	Python 3.x (no external libraries required)
+
 💻 How to Run
 1.	Clone the Repository
 2.	git clone https://github.com/Sowmya-Chidurala/Contacts.git
 3.	cd Contacts
 4.	Run the Script
 5.	python contacts.py
+   
 📋 Example
 Contact List Menu:
 1. Add Contact
@@ -24,14 +26,17 @@ Contact List Menu:
 3. Delete Contact
 4. Search Contact
 5. Quit
+
 Enter your choice: 1
 Enter name: Sowmya
 Enter phone number: 9876543210
 Enter email (optional): sowmya@example.com
+
 📦 File Structure
 Contacts/
   contacts.py    # Main script file
    README.md      # Project documentation
+   
 🧑‍💻 Author
 Sowmya Chidurala
 🔗 GitHub Profile
