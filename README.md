@@ -1,6 +1,8 @@
 #Contacts
+
 📇 Contacts CLI Program
 A simple command-line based Contact Management System built with Python. This tool allows users to add, view, delete, and search contacts in a user-friendly menu-driven interface.
+
 🚀 Features
 •	Add new contacts with name, phone number, and optional email.
 •	View all saved contacts.
