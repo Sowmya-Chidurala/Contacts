@@ -5,10 +5,15 @@ A simple command-line based Contact Management System built with Python. This to
 
 🚀 Features
 •	Add new contacts with name, phone number, and optional email.
+
 •	View all saved contacts.
+
 •	Delete a contact by choosing from the list.
+
 •	Search contacts by name or phone number.
+
 •	Console-based user interaction.
+
 🛠️ Requirements
 •	Python 3.x (no external libraries required)
 
